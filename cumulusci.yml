@@ -1,0 +1,4 @@
+project:
+    name: fflib-apex-mocks
+    source_format: sfdx
+
