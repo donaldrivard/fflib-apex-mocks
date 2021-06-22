@@ -1,6 +1,0 @@
-project:
-    name: fflib-apex-mocks
-    source_format: sfdx
-
-    git:
-        default_branch: master		
