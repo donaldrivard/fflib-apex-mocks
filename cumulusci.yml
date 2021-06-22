@@ -1,7 +1,0 @@
-project:
-    name: fflib-apex-mocks
-    source_format: sfdx
-    git:
-        repo_url: https://github.com/donaldrivard/fflib-apex-mocks.git
-  
-
