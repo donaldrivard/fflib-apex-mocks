@@ -3,5 +3,4 @@ project:
     source_format: sfdx
 
     git:
-        default_branch: master
-        repo_url: https://github.com/donaldrivard/fflib-apex-mocks		
+        default_branch: master		
